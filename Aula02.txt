@@ -1,3 +1,17 @@
 Definição de Algoritmo:
 
 Conjunto de ações que resultam em uma sucessão de passos, atingindo um objetivo.
+
+Variáveis: São utilizadas para guardarmos  algum tipo de informaçõa na memória RAM. 
+Toda vez que declaramos uma variável, alocamos um espaço na memória para uso futuro.
+
+Contantes: Não sofrem alterações no decorrer do código, servem para dados estáticos valores que nunca serão alterados.
+
+Operadores aritméticos: | Expressões Lógicas:
+
+Multiplicação *           <  Menor que
+Divisão /                 <= Menor ou igual que
+Adição +                  >  Maior que
+Subtração -               => Maior ou igual que
+                          <> Diferente
+                          =  Igual
