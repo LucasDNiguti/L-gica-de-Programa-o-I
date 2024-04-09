@@ -1,0 +1,29 @@
+Desvio Condicional
+
+Seria a tomada de decisão de um código
+
+Objetivo: desviar o caminho de execução dos comandos de acordo 
+com condição ou condições impostas juntamente com uso de 
+operadores:
+
+Relacionais          |         Lógicos
+> maior                        e conjunção
+>= maior ou igual              ou disjunção
+< menor
+<= menor ou igual
+= igual
+<> diferente
+
+Desvio Simples
+
+if(condicao/condicao){
+    decisão...
+} fim if
+
+Desvio Composto
+
+if (condição/condições) {
+comandos...
+}else {
+comandos...
+} fim se
