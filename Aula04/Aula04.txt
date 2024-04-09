@@ -1,0 +1,10 @@
+Laços de Repetição
+
+Existem ocasiões em que é necessário efetuar a repetição de um trecho de programa n vezes.
+nesse casa é usado um LOOPING
+
+há 3 jeitos de Looping:
+
+While
+Do While
+For
