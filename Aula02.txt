@@ -1,0 +1,3 @@
+Definição de Algoritmo:
+
+Conjunto de ações que resultam em uma sucessão de passos, atingindo um objetivo.
